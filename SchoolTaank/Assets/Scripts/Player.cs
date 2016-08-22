@@ -26,6 +26,7 @@ public class Player : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
+        //Movements and check for jump
         if (onFLoor) {
             jumped = false;
             anim.SetBool("isJumping", false);
@@ -53,6 +54,7 @@ public class Player : MonoBehaviour {
         anim.SetFloat("speed", Mathf.Abs(player.velocity.x));
     }
 
+    //Jump
     public void Jump()
     {
         player.velocity = new Vector2(player.velocity.x, jumpPower);
