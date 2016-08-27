@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: 747666763fa0c994489f2bf3e36f3ed0
+timeCreated: 1472151862
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BlueFlag1
+    21300002: BlueFlag2
+    21300004: BlueFlag3
+    21300006: BlueFlag4
+    21300008: BlueFlag5
+    21300010: BlueFlag6
+    21300012: BlueFlag7
+    21300014: BlueFlag8
+    21300016: teeworlds_flag_by_android272-d96gjfs_8
+    21300018: teeworlds_flag_by_android272-d96gjfs_9
+    21300020: teeworlds_flag_by_android272-d96gjfs_10
+    21300022: teeworlds_flag_by_android272-d96gjfs_11
+    21300024: teeworlds_flag_by_android272-d96gjfs_12
+    21300026: teeworlds_flag_by_android272-d96gjfs_13
+    21300028: teeworlds_flag_by_android272-d96gjfs_14
+    21300030: teeworlds_flag_by_android272-d96gjfs_15
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 150
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueFlag1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 322
+        width: 84
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueFlag2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 322
+        width: 103
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueFlag3
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 322
+        width: 118
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueFlag4
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 322
+        width: 118
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueFlag5
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 322
+        width: 118
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueFlag6
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 322
+        width: 118
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueFlag7
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 322
+        width: 117
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: BlueFlag8
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 322
+        width: 118
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 84
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 4
+        width: 103
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_10
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 118
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_11
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 4
+        width: 118
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_12
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 4
+        width: 118
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_13
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 4
+        width: 118
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_14
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 4
+        width: 118
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: teeworlds_flag_by_android272-d96gjfs_15
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 4
+        width: 118
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

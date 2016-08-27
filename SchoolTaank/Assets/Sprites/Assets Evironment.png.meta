@@ -1,0 +1,2467 @@
+fileFormatVersion: 2
+guid: ec19b6f6e3fc1154891d8a5bbf8bd323
+timeCreated: 1472121786
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Assets Evironment_0
+    21300002: Assets Evironment_1
+    21300004: Assets Evironment_2
+    21300006: Assets Evironment_3
+    21300008: Assets Evironment_4
+    21300010: Assets Evironment_5
+    21300012: Assets Evironment_6
+    21300014: Assets Evironment_7
+    21300016: Assets Evironment_8
+    21300018: Assets Evironment_9
+    21300020: Assets Evironment_10
+    21300022: Assets Evironment_11
+    21300024: Assets Evironment_12
+    21300026: Assets Evironment_13
+    21300028: Assets Evironment_14
+    21300030: Assets Evironment_15
+    21300032: Assets Evironment_16
+    21300034: Assets Evironment_17
+    21300036: Assets Evironment_18
+    21300038: Assets Evironment_19
+    21300040: Assets Evironment_20
+    21300042: Assets Evironment_21
+    21300044: Assets Evironment_22
+    21300046: Assets Evironment_23
+    21300048: Assets Evironment_24
+    21300050: Assets Evironment_25
+    21300052: Assets Evironment_26
+    21300054: Assets Evironment_27
+    21300056: Assets Evironment_28
+    21300058: Assets Evironment_29
+    21300060: Assets Evironment_30
+    21300062: Assets Evironment_31
+    21300064: Assets Evironment_32
+    21300066: Assets Evironment_33
+    21300068: Assets Evironment_34
+    21300070: Assets Evironment_35
+    21300072: Assets Evironment_36
+    21300074: Assets Evironment_37
+    21300076: Assets Evironment_38
+    21300078: Assets Evironment_39
+    21300080: Assets Evironment_40
+    21300082: Assets Evironment_41
+    21300084: Assets Evironment_42
+    21300086: Assets Evironment_43
+    21300088: Assets Evironment_44
+    21300090: Assets Evironment_45
+    21300092: Assets Evironment_46
+    21300094: Assets Evironment_47
+    21300096: Assets Evironment_48
+    21300098: Assets Evironment_49
+    21300100: Assets Evironment_50
+    21300102: Assets Evironment_51
+    21300104: Assets Evironment_52
+    21300106: Assets Evironment_53
+    21300108: Assets Evironment_54
+    21300110: Assets Evironment_55
+    21300112: CheckPoint
+    21300114: Assets Evironment_57
+    21300116: Assets Evironment_58
+    21300118: Assets Evironment_59
+    21300120: Spikes
+    21300122: Assets Evironment_61
+    21300124: Assets Evironment_62
+    21300126: Assets Evironment_63
+    21300128: Assets Evironment_64
+    21300130: Assets Evironment_65
+    21300132: Assets Evironment_66
+    21300134: Assets Evironment_67
+    21300136: Assets Evironment_68
+    21300138: Assets Evironment_69
+    21300140: Assets Evironment_70
+    21300142: Assets Evironment_71
+    21300144: Assets Evironment_72
+    21300146: Assets Evironment_73
+    21300148: Assets Evironment_74
+    21300150: ScoreBoard
+    21300152: Assets Evironment_76
+    21300154: Assets Evironment_77
+    21300156: Assets Evironment_78
+    21300158: Assets Evironment_79
+    21300160: Assets Evironment_80
+    21300162: Assets Evironment_81
+    21300164: Assets Evironment_82
+    21300166: Assets Evironment_83
+    21300168: Assets Evironment_84
+    21300170: Assets Evironment_85
+    21300172: Assets Evironment_86
+    21300174: Assets Evironment_87
+    21300176: Assets Evironment_88
+    21300178: Assets Evironment_89
+    21300180: Assets Evironment_90
+    21300182: Assets Evironment_91
+    21300184: Assets Evironment_92
+    21300186: Assets Evironment_93
+    21300188: Assets Evironment_94
+    21300190: Assets Evironment_95
+    21300192: Assets Evironment_96
+    21300194: Assets Evironment_97
+    21300196: Assets Evironment_98
+    21300198: Assets Evironment_99
+    21300200: Assets Evironment_100
+    21300202: Assets Evironment_101
+    21300204: Assets Evironment_102
+    21300206: Assets Evironment_103
+    21300208: GrassCenter
+    21300210: GrassRight
+    21300212: GrassLeft
+    21300214: GrassAlone
+    21300216: GrassUnderground
+    21300218: Assets Evironment_109
+    21300220: Assets Evironment_110
+    21300222: Assets Evironment_111
+    21300224: Assets Evironment_112
+    21300226: Assets Evironment_113
+    21300228: Assets Evironment_114
+    21300230: Assets Evironment_115
+    21300232: GrassRightUp
+    21300234: GrassLeftUp
+    21300236: GrassAloneSmall
+    21300238: Assets Evironment_119
+    21300240: Assets Evironment_120
+    21300242: Assets Evironment_121
+    21300244: Assets Evironment_122
+    21300246: Assets Evironment_123
+    21300248: GrassCenterSmall
+    21300250: Assets Evironment_125
+    21300252: Assets Evironment_126
+    21300254: Assets Evironment_127
+    21300256: Assets Evironment_128
+    21300258: GrassRightSide
+    21300260: GrassLeftSide
+    21300262: GrassRightSmall
+    21300264: Assets Evironment_132
+    21300266: Assets Evironment_133
+    21300268: Assets Evironment_134
+    21300270: Assets Evironment_135
+    21300272: GrassLeftSmall
+    21300274: Assets Evironment_137
+    21300276: Assets Evironment_138
+    21300278: Assets Evironment_139
+    21300280: Assets Evironment_140
+    21300282: Assets Evironment_141
+    21300284: Assets Evironment_142
+    21300286: Assets Evironment_143
+    21300288: Assets Evironment_144
+    21300290: Assets Evironment_145
+    21300292: Assets Evironment_146
+    21300294: Assets Evironment_147
+    21300296: Assets Evironment_148
+    21300298: Assets Evironment_149
+    21300300: Assets Evironment_150
+    21300302: Assets Evironment_151
+    21300304: Assets Evironment_152
+    21300306: Assets Evironment_153
+    21300308: Assets Evironment_154
+    21300310: Assets Evironment_155
+    21300312: Assets Evironment_156
+    21300314: Assets Evironment_157
+    21300316: Assets Evironment_158
+    21300318: Assets Evironment_159
+    21300320: Assets Evironment_160
+    21300322: Assets Evironment_161
+    21300324: Assets Evironment_162
+    21300326: Assets Evironment_163
+    21300328: Assets Evironment_164
+    21300330: Assets Evironment_165
+    21300332: Assets Evironment_166
+    21300334: Assets Evironment_167
+    21300336: Assets Evironment_168
+    21300338: Assets Evironment_169
+    21300340: Assets Evironment_170
+    21300342: Assets Evironment_171
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Assets Evironment_0
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1378
+        width: 79
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_1
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1346
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_2
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 1348
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_3
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1348
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_4
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1348
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_5
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 1348
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_6
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1348
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_7
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1348
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1306
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1306
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1306
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_11
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1306
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1306
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_13
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1325
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_14
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1325
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_15
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1325
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_16
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1325
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_17
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1325
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_18
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1325
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_19
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1325
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_20
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1325
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_21
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1325
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_22
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1325
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_23
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1325
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_24
+      rect:
+        serializedVersion: 2
+        x: 1092
+        y: 1325
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_25
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 1325
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_26
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 1325
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_27
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1325
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_28
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 1325
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_29
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 1325
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_30
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1325
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_31
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1325
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1277
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1258
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1254
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_35
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_38
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_39
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1265
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_40
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1204
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_41
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1204
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_42
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1204
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1234
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_44
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_45
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1211
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_46
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1230
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1230
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_48
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1244
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_49
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1244
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_50
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1244
+        width: 4
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_51
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1244
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_52
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1154
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_53
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1154
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_54
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1179
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_55
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1179
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: CheckPoint
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1204
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_57
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1208
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_58
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1208
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_59
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1208
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Spikes
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1178
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_61
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1165
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_62
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1165
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_63
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1165
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_64
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1165
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_65
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 1079
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_66
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1143
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_67
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 1143
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_68
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1143
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_69
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1143
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_70
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1153
+        width: 100
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_71
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1111
+        width: 100
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_72
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1111
+        width: 100
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_73
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1111
+        width: 100
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_74
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1111
+        width: 100
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ScoreBoard
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1029
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_76
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1029
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_77
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1029
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_78
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 1079
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_79
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1079
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_80
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1079
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_81
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1079
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1079
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_83
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1079
+        width: 100
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 954
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_85
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 953
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 954
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_87
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 954
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_88
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 935
+        width: 101
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_89
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 953
+        width: 100
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_90
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 953
+        width: 100
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_91
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 954
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_92
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 954
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_93
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 954
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_94
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_95
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_96
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 828
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_97
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_98
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 829
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_99
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_100
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_101
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_102
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_103
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 829
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassCenter
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassRight
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassLeft
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassAlone
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassUnderground
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_109
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_110
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_111
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_112
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_113
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 704
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_114
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 579
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_115
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 579
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassRightUp
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 579
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassLeftUp
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 579
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassAloneSmall
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 629
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_119
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 579
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_120
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 579
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_121
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 579
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_122
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 579
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_123
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 629
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassCenterSmall
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 554
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_125
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 454
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_126
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 554
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_127
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 454
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_128
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 454
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassRightSide
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 454
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassLeftSide
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 454
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassRightSmall
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 479
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_132
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 454
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_133
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 454
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_134
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 453
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_135
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 479
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: GrassLeftSmall
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 404
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_137
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 404
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_138
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_139
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_140
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_141
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_142
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_143
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_144
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_145
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_146
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_147
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 279
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_148
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_149
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_150
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_151
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_152
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 204
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_153
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_154
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_155
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_156
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 154
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_157
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 204
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_158
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 129
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_159
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 129
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_160
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_161
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_162
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_163
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_164
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 54
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_165
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_166
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_167
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_168
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 29
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_169
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 54
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_170
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 100
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Assets Evironment_171
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 100
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
